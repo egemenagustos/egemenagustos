@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **.net core mvc, angular**
 
-- 👨‍💻 All of my projects are available at [egemenagustos.com](egemenagustos.com)
-
 - 📝 I regularly write articles on [https://egemenagustos.com/bloglar/](https://egemenagustos.com/bloglar/)
 
 - 💬 Ask me about **.net, .net core**
